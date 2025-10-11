@@ -1,5 +1,3 @@
-Java Web Application - Registration/Login form without framework with MySQL database, connection and unit testing
-
 1.Използвани технологии:
 Java SE - за основната логика на приложението (Servlet-и, Java класове, обекти).
 Servlet API (Jakarta EE) - за обработка на HTTP заявки и създаване на динамични уеб страници.
