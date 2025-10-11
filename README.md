@@ -29,7 +29,7 @@ Log-out:
 -HttpServletRequest и HttpServletResponse – за обработка на HTTP заявки и отговори.
 -PreparedStatement – за безопасни SQL заявки (предотвратява SQL injection).
 -HttpSession – за управление на логнатите потребители.
--Стандартни JSP тагове като <form>, <input> и EL (Expression Language) за извеждане на данни в страниците.
+-Стандартни JSP тагове и EL (Expression Language) за извеждане на данни в страниците.
 
 4.Описание на файловете с код:
 RegisterServlet.java – обработва регистрационната форма и записва нов потребител в базата.
