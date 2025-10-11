@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact name="registration-app:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/registration_app_war_exploded</output-path>
+    <root id="root" />
+  </artifact>
+</component>
